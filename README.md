@@ -1,6 +1,5 @@
 # Motion-Studio-Add-on
-Concept
-
+# Concept
 The Motion Studio add-on on will be designed to take motion capture data and apply it to default rigs in real time. This will give artist of all types the chance to use motion capture in their projects with ease. The two main rigs I believe to be most important are humanoid and facial rigs. The biggest hurdle will be real time tracking, however this is also the last piece of the puzzle and there is add-ons already do it.
 
 Some features that will need to be added are a complete ui, tracking options, bvh loading and the mixing of different bvh files such as legs from one file and different torso from another with just a couple clicks of a button. Maybe mixing bvh files with this unity sort of look? 
