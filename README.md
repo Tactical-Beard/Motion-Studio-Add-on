@@ -11,10 +11,11 @@ Motion Studio -  The name of the add-on.
 Motion Library - The name of the database of .bvh files and armatures.
 
 Features -     Real-time application of motion capture video to facial & humanoid rigs.
-Mixing of different animations.
-Simple and easy to learn UI.
-The ability to create new animation libraries.
-Load and Retarget .bvh files.
-Clamp animations.
-Add rigs just like metarig. 
+               Mixing of different animations.
+               Simple and easy to learn UI.
+               The ability to create new animation libraries.
+               Load and Retarget .bvh files.
+               Clamp animations
+               Add rigs just like metarig. 
+
 
